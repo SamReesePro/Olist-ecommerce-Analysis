@@ -9,3 +9,10 @@ The objective of this analysis was to investigate overall sales performance, cus
 I used **SQL** to explore, validate and analyse the underlying data, investigating areas such as revenue, customer purchase frequency, delivery performance and product categories. I then used **Power BI** to develop a structured data model and interactive dashboard, transforming the findings from the SQL analysis into a clear business-facing report.
 
 The analysis examined **revenue and sales trends, leading product categories, the impact of freight costs on revenue, customer purchase frequency and value, and the relationship between delivery performance and customer satisfaction**. I also sourced and integrated external regional income data to investigate whether differences in average customer spend were associated with regional economic conditions.
+
+## Tools
+
+- **SQL Server / SSMS** — data exploration, validation and analysis
+- **Power BI** — data modelling, DAX and interactive visualisation
+- **Power Query** — data cleaning and transformation
+- **Excel** — supporting data preparation and analysis
