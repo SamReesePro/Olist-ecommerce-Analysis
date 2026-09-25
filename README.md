@@ -85,3 +85,16 @@ An analysis of customer purchase frequency, customer value, delivery performance
 ### 3. Product & Geographic Performance
 
 A deeper look at category performance after freight costs and differences in average customer spending across Brazilian states.
+
+## Data Source
+
+The analysis uses the **Brazilian E-Commerce Public Dataset by Olist**, a publicly available dataset containing information on orders, customers, products, sellers, payments and reviews from 2016 to 2018.
+
+External regional income data from **IBGE** was also incorporated to provide additional context for the geographic analysis.
+
+## Limitations
+
+- The dataset covers a historical period from 2016 to 2018 and may not reflect current e-commerce behaviour.
+- The dataset does not contain product cost, marketing expenditure or other operating costs, so revenue after freight should not be interpreted as profit.
+- Customer retention analysis is affected by the relatively short observation period; customers acquired near the end of the dataset had less time to make repeat purchases.
+- The relationship between regional income and customer spending is observational and does not establish causation.
