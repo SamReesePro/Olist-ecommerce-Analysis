@@ -72,8 +72,6 @@ The analysed data was then brought into Power BI, where I:
 
 ## Dashboard
 
-## Dashboard
-
 The Power BI report is organised into three pages:
 
 ### 1. E-Commerce Performance Overview
@@ -93,6 +91,9 @@ An analysis of customer purchase frequency, customer value, delivery performance
 A deeper look at category performance after freight costs and differences in average customer spending across Brazilian states.
 
 ![Product & Geographic Performance](Screenshots/Product-Geographic.png)
+
+> The interactive Power BI report is available on request. Screenshots of all three report pages are included above.
+
 ## Data Source
 
 The analysis uses the **Brazilian E-Commerce Public Dataset by Olist**, a publicly available dataset containing information on orders, customers, products, sellers, payments and reviews from 2016 to 2018.
